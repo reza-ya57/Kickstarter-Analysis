@@ -3,4 +3,4 @@ Performing analysis on Kickstarter data to uncover trends
 * Analysis US campaign for Theater
 1. Compare Goal and pledged 
 2. Review Statistical Parameter
-![Alt text] (https://github.com/reza-ya57/Kickstarter-Analysis/Kickstarter-Analysis/Parent Category Outcomes- US Food.png?raw=true)
+![Alt text] ("https://github.com/reza-ya57/Kickstarter-Analysis/Kickstarter-Analysis/Parent Category Outcomes- US Food.png")
