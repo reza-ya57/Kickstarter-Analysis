@@ -7,12 +7,8 @@
 
 ## Analysis and Challenges
 ## In this study I classified the campaign outcomes based on their launch date and their funding goals, in order to find a meaningfull relation between the launch time and goals. Louise want to run a campaign for theater category so I just focused on this category to analyse the data. This study goes in two way:
-   * Analyse outcomes of each campaign compare to the launch time
-   * Analyse outcomes of each campaign compare to the defined goals
-
-
-
-There was a challenge for using the date info in this dataset because of the format of the dates which was based on unix timestamp. So before using date information I had to convert it into the readable format. Check [Unix Timestamp Convertor](https://www.epochconverter.com) for more detail information.
+   * Compare campaign outcomes by the launch time
+   * Compare campaign outcomes by the defined goals
 
 
 ### Analysis of Outcomes Based on Launch Date
@@ -20,10 +16,16 @@ There was a challenge for using the date info in this dataset because of the for
 ![Outcomes Based on Launch Time](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+In order to analyse the outcomes based on goals, I defined 12 range of goals amount to make the study more reasonable and meaningfull, then I calculated the percentage of successful, failed and canceled project over those range.
+![image](https://user-images.githubusercontent.com/79761400/109898598-8b431280-7c62-11eb-9940-cf006653f3d4.png)
+
+
   - Below chart shows the relation of campaigns outcomes compare to the amount of goals which is defined for each campaign.
 ![Outcomes vs Goals](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+
+There was a challenge for using the date info in this dataset because of the format of the dates which was based on unix timestamp. So before using date information I had to convert it into the readable format. Check [Unix Timestamp Convertor](https://www.epochconverter.com) for more information about Unix timestamp or Epoch.
 
 ## Results
 
