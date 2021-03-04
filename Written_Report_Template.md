@@ -31,8 +31,9 @@ There was a challenge for using the date info in this dataset because of the for
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1- According to the graph I can say best time to lunch a new campaign would be May and June and you can see the declining trend of successfull campaign through the end of the year. 
-2- There is no meaningfull trend for failed or canceled campaign comare to the launch time.
+1. According to the graph I can say best time to lunch a new campaign would be May and June and you can see the declining trend of successfull campaign through the end of the year. 
+2. There is no meaningfull trend for failed or canceled campaign comare to the launch time.
+
 
 - What can you conclude about the Outcomes based on Goals?
 
