@@ -18,6 +18,8 @@ There was a challenge for using the date info in this dataset because of the for
 ![Outcomes Based on Launch Time](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+  - Below chart shows the relation of campaigns outcomes compare to the amount of goals which is defined for each campaign.
+![Outcomes vs Goals](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
