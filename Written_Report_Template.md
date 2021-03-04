@@ -17,7 +17,7 @@
 
 ### Analysis of Outcomes Based on Goals
   - In order to analyse the outcomes based on goals, I defined 12 range of goals amount to make the study more reasonable and meaningfull, then I calculated the percentage of successful, failed and canceled project over those range.
-* Goal Range Table
+> Goal Range Table
 ![Goal Range](https://user-images.githubusercontent.com/79761400/109898598-8b431280-7c62-11eb-9940-cf006653f3d4.png)
 
 
