@@ -22,7 +22,7 @@
 ![Goal Range](https://user-images.githubusercontent.com/79761400/109898598-8b431280-7c62-11eb-9940-cf006653f3d4.png)
 
 
- - Below chart shows how goals amount can affect on the campaigns outcomes.
+ - Below chart shows how amount of goals can affect on the campaigns outcomes.
 ![Outcomes vs Goals](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
