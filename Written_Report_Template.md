@@ -7,8 +7,8 @@
 
 ## Analysis and Challenges
 ## In this study I classified the campaign outcomes based on their launch date and their funding goals, in order to find a meaningfull relation between the launch time and goals. Louise want to run a campaign for theater category so I just focused on this category to analyse the data. This study goes in two way:
-  # * Analyse outcomes of each campaign compare to the launch time
-  # * Analyse outcomes of each campaign compare to the defined goals
+   * Analyse outcomes of each campaign compare to the launch time
+   * Analyse outcomes of each campaign compare to the defined goals
 
 
 
