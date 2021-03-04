@@ -6,7 +6,9 @@
 ###   Analysis the crowdfunding campaigns information in period of 2010 to 2017 to help Louise for running her fundraising campaign with the high confidence in the best time and with the proper defined goal.
 
 ## Analysis and Challenges
-## In this study I classified the campaign outcomes based on their launch date and their funding goals, in order to find a meaningfull relation between the launch time and goals and succeeded. Louise want to run a campaign for theater category so in this analysis I just focused on this category to analyse the data. 
+## In this study I classified the campaign outcomes based on their launch date and their funding goals, in order to find a meaningfull relation between the launch time and goals. Louise want to run a campaign for theater category so I just focused on this category to analyse the data. This study goes in two way:
+  # * Analyse outcomes of each campaign compare to the launch time
+  # * Analyse outcomes of each campaign compare to the defined goals
 
 
 
@@ -15,11 +17,11 @@ There was a challenge for using the date info in this dataset because of the for
 
 ### Analysis of Outcomes Based on Launch Date
   - In below graph you can see the trend of outcomes in monthly manner. The grapgh shows the number of successful, failed and canceled campaigns for theater in different month of the year.
-![Outcomes Based on Launch Time](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Time](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
   - Below chart shows the relation of campaigns outcomes compare to the amount of goals which is defined for each campaign.
-![Outcomes vs Goals](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
