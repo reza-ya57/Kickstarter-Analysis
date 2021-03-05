@@ -41,7 +41,8 @@ There was a challenge for using the date info in this dataset because of the for
   - Based on the graph, it can be said that projects that have set goals below $5,000 have been over 70% succeed.
   - One more important point is that we should not just look at the percentage of successful or failed alone, we have to consider the number of define project in each level of range goal. If you check the grapgh you can see in the range of $35,000 to $50,000 goals amount 67% percent of the campaign was succeed, but on the other hand total launched campaigns in this range is 9 out of 1046 total campaing in our study. So it is not safe to just looking to percentage and make a decision. 
 - What are some limitations of this dataset?
-  - Dataset size could be one of the limitation
+  - Size of dataset
+  - 
 
 - What are some other possible tables and/or graphs that we could create?
   - Outcomes based on pledged
