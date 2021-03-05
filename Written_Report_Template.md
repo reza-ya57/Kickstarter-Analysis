@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
-###   Analysis the crowdfunding campaigns information in period of 2010 to 2017 to help Louise for running her fundraising campaign with the high confidence in the best time and with the proper defined goal.
+###   In this study we analysed Analysis the crowdfunding campaigns information for period of 2010 to 2017 to help Louise for running her fundraising campaign with the high confidence in the best time and with the proper defined goal.
 
 ## Analysis and Challenges
 ### In this study I classified the campaign outcomes based on their launch date and their funding goals, in order to find a meaningfull relation between the launch time and goals. Louise want to run a campaign for theater category so I just focused on this category to analyse the data. This study goes in two way:
