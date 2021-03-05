@@ -6,7 +6,7 @@
 ###   Analysis the crowdfunding campaigns information in period of 2010 to 2017 to help Louise for running her fundraising campaign with the high confidence in the best time and with the proper defined goal.
 
 ## Analysis and Challenges
-## In this study I classified the campaign outcomes based on their launch date and their funding goals, in order to find a meaningfull relation between the launch time and goals. Louise want to run a campaign for theater category so I just focused on this category to analyse the data. This study goes in two way:
+### In this study I classified the campaign outcomes based on their launch date and their funding goals, in order to find a meaningfull relation between the launch time and goals. Louise want to run a campaign for theater category so I just focused on this category to analyse the data. This study goes in two way:
    * Compare campaign outcomes by the launch time
    * Compare campaign outcomes by the defined goals
 
