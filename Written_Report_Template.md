@@ -45,4 +45,5 @@ There was a challenge for using the date info in this dataset because of the for
 
 - What are some other possible tables and/or graphs that we could create?
   - Outcomes based on pledged
-  - outcomes based on country
+  - Outcomes based on country
+  
