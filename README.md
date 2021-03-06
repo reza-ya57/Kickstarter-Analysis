@@ -48,6 +48,4 @@ There was a challenge for using the date info in this dataset because of the for
 - What are some other possible tables and/or graphs that we could create?
   - Outcomes based on pledged
   - Outcomes based on country
-  - Averarage backer amount per each campaign
-  - Percent of successfull campaign per month
-  
+  - Averarage backer amount per each campaign 
