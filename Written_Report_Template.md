@@ -2,11 +2,11 @@
 
 ## Overview of Project
 
-### Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
-###   In this study we analysed Analysis the crowdfunding campaigns information for period of 2010 to 2017 to help Louise for running her fundraising campaign with the high confidence in the best time and with the proper defined goal.
+###   Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. We analysed crowdfunding campaigns data for period of 2010 to 2017 in order to find a meaningfull trend and help Louise for running her fundraising campaign with the high confidence in the best time and with the proper goal.
 
 ## Analysis and Challenges
-### In this study I classified the campaign outcomes based on their launch date and their funding goals, in order to find a meaningfull relation between the launch time and goals. Louise want to run a campaign for theater category so I just focused on this category to analyse the data. This study goes in two way:
+### In this study I classified the campaign outcomes based on their launch date and their funding goals, in order to find a meaningfull relation between the launch time and goals. Louise want to run a campaign for theater category so I just focused on this category to analyse the data. This study goes in two ways:
+
    * Compare campaign outcomes by the launch time
    * Compare campaign outcomes by the defined goals
 
@@ -33,7 +33,7 @@ There was a challenge for using the date info in this dataset because of the for
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. According to the graph I can say best time to lunch a new campaign would be May and June and you can see the declining trend of successfull campaign through the end of the year. 
-2. There is no meaningfull trend for failed or canceled campaign comare to the launch time.
+2. There is no meaningfull trend for failed or canceled campaign compare to the launch time.
 
 
 - What can you conclude about the Outcomes based on Goals?
@@ -42,9 +42,12 @@ There was a challenge for using the date info in this dataset because of the for
   - One more important point is that we should not just look at the percentage of successful or failed alone, we have to consider the number of define project in each level of range goal. If you check the grapgh you can see in the range of $35,000 to $50,000 goals amount 67% percent of the campaign was succeed, but on the other hand total launched campaigns in this range is 9 out of 1046 total campaing in our study. So it is not safe to just looking to percentage and make a decision. 
 - What are some limitations of this dataset?
   - Size of dataset
-  - 
+  - Source of data not specified
+  - Method of gathering the data is not mentioned
 
 - What are some other possible tables and/or graphs that we could create?
   - Outcomes based on pledged
   - Outcomes based on country
+  - Averarage backer amount per each campaign
+  - Percent of successfull campaign per month
   
